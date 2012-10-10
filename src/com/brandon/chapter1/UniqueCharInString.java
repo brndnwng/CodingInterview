@@ -24,6 +24,7 @@ public class UniqueCharInString {
 		}
 		
 		System.out.println("UNIQUE");
+		System.out.println("Garbage");
 	}
 
 }
